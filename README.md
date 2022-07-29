@@ -12,7 +12,10 @@ Cuento con conocimientos en:
 - Django
 - Html
 - CSS
--JavaScript
+- JavaScript
+- Servicios Web  (SOAP y REST) 
+- REST | Postman
+- REST | GraphQL
 
 Cuento con conocimientos en:
 - AWS Cloud Practitioner Essentians
