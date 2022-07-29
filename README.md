@@ -14,6 +14,10 @@ Cuento con conocimientos en:
 - CSS
 -JavaScript
 
+Cuento con conocimientos en:
+- AWS Cloud Practitioner Essentians
+- AWS Share Responsability Model
+
 He trabajado con Bases de Datos:
 - Sql
 - MySql
